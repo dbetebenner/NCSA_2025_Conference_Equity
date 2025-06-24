@@ -1,0 +1,245 @@
+---
+pagetitle: "Beyond the Score: Reporting Equity and Justice in Educational Accountability"
+author: Damian Betebenner
+format:
+  revealjs:
+    logo: assets/img/cfa_logo_full_color.png
+    footer-logo-link: "https://www.centerforassessment.org"
+    width: 1600
+    height: 900
+    preview-links: auto
+    scrollable: false
+    slide-number: true
+    show-slide-number: all
+    multiplex: true
+    controls: true
+    background-transition: fade
+    fig-align: center
+    center-title-slide: false
+    navigation-mode: vertical
+    theme: [simple, assets/css/presentation-style.scss]
+    css:
+      - assets/css/presentation-style.scss
+      - assets/css/custom-fonts.css
+    html-math-method: mathjax
+    embed-resources: true
+    bibliography: assets/bibliography/references.bib
+    self-contained: true
+    verbose: true
+filters:
+  - reveal-header
+draft: false
+---
+
+# {background-color=#FFA07A}
+
+::::{.columns}
+
+:::{.column width="60%" style="text-align: left;"}
+
+<h1 style="color: #FFFFFF; font-size: 120px;">Beyond the Score</h1>
+
+<h2 style="color: #FFFFFF; font-size: 80px;">Reporting Equity and Justice in Educational Accountability</h2>
+
+:::
+
+:::{.column width="40%" style="text-align: right; font-size: 68px; font-style: italic; padding-top: 500px;"}
+
+<h3 style="color: #FFFFFF; font-size: 60px;">Damian Betebenner</h3>
+
+<h4 style="color: #FFFFFF; font-size: 60px;">June 24th, 2025</h4>
+
+:::
+
+::::
+
+
+<!--
+#########################################
+Section: Trigger Alert
+#########################################
+-->
+
+# {background-color=#FFA07A}
+
+<h2 class="large-centered-uhoh">Uh oh!</h2>
+
+---
+
+## I was clueless!
+
+:::{.incremental}
+
+- Going back several years, I'd hear colleagues frequently using the term "equity" to characterize the work they were doing.
+- It seemed like a good thing. It's not like I support inequity.
+- But in the end, I really didn't know what it meant.
+- I'd heard about DEI programs and interventions that characterize themselves as equity-focused.
+- But those are _inputs_ and I'm an _outputs_ guy.
+- I was curious: _How would one characterize/recognize and ultimately quantify equity in terms of the outputs we all know and love - state summative assessment results?_
+- So what did I do? This was pre-ChatGPT so I started Googling. 
+
+:::
+
+<!--
+#########################################
+Section: Background
+#########################################
+-->
+
+# {background-image=assets/img/background.jpg background-size="cover" background-position="center"}
+
+<h2 style="text-align: center; font-size: 3.5em; color: #FFFFFF; font-weight: 600; text-shadow: 2px 2px 4px rgba(255,255,255,0.8); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Background</h2>
+
+---
+
+## The Famous Infographic
+
+![](assets/img/Equality_Equity_Infographic.png){width=100% style="display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+
+
+---
+
+## This Gave Me Some Ideas -- Here's What I Saw
+
+:::::{.columns}
+
+::::{.column width="50%"}
+
+:::{.incremental}
+
+- I saw the fence as a metaphor for the "proficiency" requirements and the individuals seeing over the fence as demonstrating proficiency.
+- I saw disparate proficiency outcomes represented by some individuals seeing over the fence and others not.
+- I saw **Equality**, where "input" boxes are of equal height, not eliminating proficiency disparities.
+- I saw **Equity**, where "input" boxes adjust in height to the need of the individual, leading to the elimination of proficiency disparities.
+- I felt like I was starting to get it. 
+
+:::
+
+::::
+
+::::{.column width="50%"}
+
+![](assets/img/Equality_Equity_Infographic.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
+
+---
+
+## Then I Read This!
+
+![](assets/img/equity_white_supremacy.png){width=80% style="display: block; margin: 0 auto; border-radius: 0px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"}
+
+--- 
+
+## Sippin the EquiTEA made some good points!
+
+:::::{.columns}
+
+::::{.column width="50%"}
+
+:::{.incremental}
+
+- Making the children different heights implicitly blames the student for not being able to see over the fence.
+- The graphic doesn't address the uneven playing field associated with the systemic inequities that exist in our society.
+- So I wanted to see if I could come up with a graphic that merges these ideas together.
+
+:::
+
+::::
+
+::::{.column width="50%"}
+
+![](assets/img/Equality_Equity_Infographic.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
+
+---
+
+## Here's What I Came Up With
+
+![](assets/img/EqualityEquityJustice-Lg.jpg){width=50% style="display: block; margin: 0 auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"}
+
+
+---
+
+## I'm Not Saying
+
+:::{.incremental}
+
+- This is perfect or better than other illustrations.
+- This is original or the best way to think about these ideas. 
+- It did, however, help me get some traction on how ideas like equity and justice could be quantified in terms of the outputs we all know and love - state summative assessment results.
+- That's what I'm going to run with for the rest of this presentation.
+
+:::
+
+<!--
+#########################################
+Section: Equity
+#########################################
+-->
+
+# {background-color=#FFA07A}
+
+<h2 class="large-centered-uhoh">Equity</h2>
+
+
+---
+
+## Making Sense of Equity
+
+:::::{.columns}
+
+::::{.column width="60%"}
+
+:::{.incremental}
+
+- The boxes represent the equity "contribution".
+- The contribution includes, for example, supplemental learning interventions and supports to help students who are behind "catch up".
+- These contributions would manifest themselves as higher rates of growth for those students.
+- That is, student growth is the basis for investigating equity. 
+
+:::
+
+::::
+
+::::{.column width="40%"}
+
+![](assets/img/equity.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
+
+
+<!--
+#########################################
+Section: Justice
+#########################################
+-->
+
+# {background-color=#FFA07A}
+
+<h2 class="large-centered-uhoh">Justice</h2>
+
+
+
+---
+
+
+<!--
+#########################################
+Section: Next Steps
+#########################################
+-->
+
+# {background-color=#FFA07A}
+
+<h2 class="large-centered-uhoh">Next Steps</h2>
+
+
+
