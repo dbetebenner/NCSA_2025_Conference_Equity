@@ -74,7 +74,7 @@ Section: Trigger Alert
 - It seemed like a good thing. It's not like I support inequity.
 - But in the end, I really didn't know what it meant.
 - I'd heard about DEI programs and interventions that characterize themselves as equity-focused.
-- But those are _inputs_ and I'm an _outputs_ guy.
+- But those are **inputs** and I'm an **outputs** guy.
 - I was curious: _How would one characterize/recognize and ultimately quantify equity in terms of the outputs we all know and love - state summative assessment results?_
 - So what did I do? This was pre-ChatGPT so I started Googling. 
 
@@ -200,8 +200,9 @@ Section: Equity
 
 - The boxes represent the equity "contribution".
 - The contribution includes, for example, supplemental learning interventions and supports to help students who are behind "catch up".
-- These contributions would manifest themselves as higher rates of growth for those students.
-- That is, student growth is the basis for investigating equity. 
+- The height of the boxes represents the magnitude of the contribution or, conversely, the magnitude of the inequity (academic headwinds) to overcome.
+- These contributions would manifest themselves as higher rates of growth (academic tailwinds) for those students. 
+- The critical insight here is that student growth is the basis for investigating equity. 
 
 :::
 
@@ -215,6 +216,27 @@ Section: Equity
 
 :::::
 
+---
+
+## Student Growth as an Equity Indicator
+
+:::{.incremental}
+
+- To investigate equity vis-à-vis student growth, we need a measure of student growth that allows different groups to demonstrate different rates of growth.
+- If one only wants to make between group equity comparisons within a given year, then norm-referenced SGPs are sufficient. 
+- If one want to investigate equity over time, for example, at the state level, then baseline referenced SGPs are required.
+
+:::
+
+---
+
+## Visualization - Growth as an Equity Indicator
+
+![](assets/img/equity_growth_1.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+---
+
+## 
 
 <!--
 #########################################
@@ -227,8 +249,40 @@ Section: Justice
 <h2 class="large-centered-uhoh">Justice</h2>
 
 
+---
+
+## Making Sense of Justice
+
+:::::{.columns}
+
+::::{.column width="60%"}
+
+:::{.incremental}
+
+- The downward slope of the ground represents the myriad of systemic factors (many outside of the control of the education system) that impact student outcomes.
+- Equity, the boxes, represents what needs to be done to overcome these systemic disparities.
+- Justice entails the amelioration of the systemic factors that impact student outcomes.
+
+:::
+
+::::
+
+::::{.column width="40%"}
+
+![](assets/img/EquityJusticeAnimation.gif){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
 
 ---
+
+## {background-image=assets/img/peter_drucker.png background-size="cover" background-position="center"}
+
+<h2 style="text-align: left; font-size: 3.0em; color: #FFFFFF; font-weight: 600; font-style: italic; position: absolute; top: 30%; left: 20%; transform: translate(-50%, -50%);">You can't manage<br>what you don't measure.</h2>
+
+<h2 style="text-align: left; font-size: 2.4em; color: #FFFFFF; font-weight: 600; position: absolute; top: 70%; left: 20%; transform: translate(-50%, -50%);">Peter Drucker</h2>
+
 
 
 <!--
