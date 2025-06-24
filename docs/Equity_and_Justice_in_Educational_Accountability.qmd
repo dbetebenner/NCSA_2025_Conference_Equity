@@ -230,13 +230,13 @@ Section: Equity
 
 ---
 
-## Visualization - Growth as an Equity Indicator
+## Visualization - Growth as an Equity Indicator (Baseline Scenario)
 
 ![](assets/img/equity_growth_2.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
 
 ---
 
-## Visualization - Growth as an Equity Indicator
+## Visualization - Growth as an Equity Indicator (Baseline Scenario)
 
 :::::{.columns}
 
@@ -244,7 +244,12 @@ Section: Equity
 
 :::{.incremental}
 
-- The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.  
+- The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.
+- The widths of the columns represent the current percentage of students in each category (in this figure 50%, 25% and 25% have growth goals of **> 1 Year's Growth**, **1 Year's Growth**, and **< 1 Year's Growth**, respectively.
+- The heights of the rectangles represent the percentage of students in each row category demonstrating that amount of growth (uniform distribution of growth by prior achievement).
+- With cohort-referenced SGPs or baseline-referenced SGPs in the baseline year, SGPs will be uniformly distributed.
+  - For cohort-referenced SGPs, SGPs for subgroups (e.g., a district) needn't be uniformly distributed within year. 
+  - For baseline-referenced SGPs, SGPs for the entire state or for subgroups needn't be uniformly distributed following the baseline year. 
 
 :::
 
@@ -266,7 +271,7 @@ Section: Equity
 
 ---
 
-## Visualization - Growth as an Equity Indicator
+## Visualization - Growth as an Equity Indicator (Good Scenario)
 
 :::::{.columns}
 
@@ -274,12 +279,9 @@ Section: Equity
 
 :::{.incremental}
 
-- The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.
-- The widths of the columns represent the current percentage of students in each category (in this instance one third in each category)
-- The heights of the rectangles represent the percentage of students in each category demonstrating that amount of growth.
-- With cohort-referenced SGPs or baseline-referenced SGPs in the baseline year, SGPs will be uniformly distributed.
-  - For cohort-referenced SGPs, SGPs for subgroups (e.g., a district) needn't be uniformly distributed within year. 
-  - For baseline-referenced SGPs, SGPs for the entire state or for subgroups needn't be uniformly distributed following the baseline year. 
+- This figure shows a good scenario with regard to equity.
+- The growth associated with the students needing the equity boost to catch-up shows a preponderance of students demonstration a least a year's worth of learning. 
+- Decreasing the percentage of students demonstrating less than a year's worth of learning is key. 
 
 :::
 
@@ -349,7 +351,7 @@ Section: Justice
 - Often, we use demographic variables as proxies to account for systemic factors that impact student outcomes.
 - Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors on student outcomes.
 - I would argue, in line with Peter Drucker, that if our interest is in ameliorating systemic factors that impact student outcomes, then we need to measure them directly.
-- Bill Sanders, when discussing the use of demographics in value-added modeling, feared that their incorporation was sweeping the problem under the rug.  
+- Bill Sanders, when discussing the use of demographics in value-added modeling, feared that their incorporation was "sweeping the problem under the rug".  
 
 :::
 
