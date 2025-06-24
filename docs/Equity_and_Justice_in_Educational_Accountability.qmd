@@ -258,6 +258,42 @@ Section: Equity
 
 :::::
 
+---
+
+## Visualization - Growth as an Equity Indicator (Good Scenario)
+
+![](assets/img/equity_growth_3.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+---
+
+## Visualization - Growth as an Equity Indicator
+
+:::::{.columns}
+
+::::{.column width="50%"}
+
+:::{.incremental}
+
+- The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.
+- The widths of the columns represent the current percentage of students in each category (in this instance one third in each category)
+- The heights of the rectangles represent the percentage of students in each category demonstrating that amount of growth.
+- With cohort-referenced SGPs or baseline-referenced SGPs in the baseline year, SGPs will be uniformly distributed.
+  - For cohort-referenced SGPs, SGPs for subgroups (e.g., a district) needn't be uniformly distributed within year. 
+  - For baseline-referenced SGPs, SGPs for the entire state or for subgroups needn't be uniformly distributed following the baseline year. 
+
+:::
+
+::::
+
+::::{.column width="50%"}
+
+![](assets/img/equity_growth_3a.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
+
+
 <!--
 #########################################
 Section: Justice
@@ -310,9 +346,10 @@ Section: Justice
 :::{.incremental}
 
 - There's a corollary to the way justice is characterized to some different assumptions that current growth models make.
-- Often, we use demographic proxy variables to account for systemic factors that impact student outcomes.
+- Often, we use demographic variables as proxies to account for systemic factors that impact student outcomes.
 - Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors on student outcomes.
-
+- I would argue, in line with Peter Drucker, that if our interest is in ameliorating systemic factors that impact student outcomes, then we need to measure them directly.
+- Bill Sanders, when discussing the use of demographics in value-added modeling, feared that their incorporation was sweeping the problem under the rug.  
 
 :::
 
@@ -328,7 +365,15 @@ Section: Next Steps
 
 ---
 
-## 
+## The Future of Equity and Justice in Educational Accountability
+
+:::{.incremental}
+
+- Begin running growth based equity analyses and visualizations for interested state clients.
+- Move beyond demographic proxy variables and incorporate more direct measures of systemic factors that impact student outcomes.
+- Consider how such indicators can be used to inform policy and practice and potentially as part of accountability systems.
+
+:::
 
 
 
