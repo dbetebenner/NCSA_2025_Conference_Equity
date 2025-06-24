@@ -72,7 +72,7 @@ Section: Trigger Alert
 
 - Going back several years, I'd hear colleagues frequently using the term "equity" to characterize the work they were doing.
 - It seemed like a good thing. It's not like I support inequity.
-- But in the end, I really didn't know what it meant.
+- But in the end, I really didn't know what the term meant.
 - I'd heard about DEI programs and interventions that characterize themselves as equity-focused.
 - But those are **inputs** and I'm an **outputs** guy.
 - I was curious: _How would one characterize/recognize and ultimately quantify equity in terms of the outputs we all know and love - state summative assessment results?_
@@ -347,9 +347,9 @@ Section: Justice
 
 :::{.incremental}
 
-- There's a corollary to the way justice is characterized to some different assumptions that current growth models make.
-- Often, we use demographic variables as proxies to account for systemic factors that impact student outcomes.
-- Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors on student outcomes.
+- There's a corollary to the way justice is characterized here to some different assumptions that current growth models make.
+- Often, we use individual and group level demographic characteristics as proxies to account for systemic factors that impact student outcomes.
+- Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors (considered outside of the control of the education system) on student outcomes.
 - I would argue, in line with Peter Drucker, that if our interest is in ameliorating systemic factors that impact student outcomes, then we need to measure them directly.
 - Bill Sanders, when discussing the use of demographics in value-added modeling, feared that their incorporation was "sweeping the problem under the rug".  
 
@@ -377,5 +377,35 @@ Section: Next Steps
 
 :::
 
+---
+
+## Crazy School Accountability Idea
+### Inspired by watching figuring skating with my daughter and seeing how figure skating routines are rated.  
+
+:::::{.columns}
+
+::::{.column width="50%"}
+
+<h2 class="side-by-side-box">Execution<br>Component</h2> 
+
+::::
 
 
+::::{.column width="50%"}
+
+<h2 class="side-by-side-box">Difficulty<br>Component</h2>
+
+::::
+
+:::::
+
+
+<!--
+#########################################
+Section: Thank You
+#########################################
+-->
+
+# {background-color=#FFA07A}
+
+<h2 class="large-centered-uhoh">Thank You</h2>
