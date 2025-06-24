@@ -232,11 +232,31 @@ Section: Equity
 
 ## Visualization - Growth as an Equity Indicator
 
-![](assets/img/equity_growth_1.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+![](assets/img/equity_growth_2.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
 
 ---
 
-## 
+## Visualization - Growth as an Equity Indicator
+
+:::::{.columns}
+
+::::{.column width="50%"}
+
+:::{.incremental}
+
+- The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.  
+
+:::
+
+::::
+
+::::{.column width="50%"}
+
+![](assets/img/equity_growth_2a.png){width=80% style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
+
+::::
+
+:::::
 
 <!--
 #########################################
@@ -283,7 +303,18 @@ Section: Justice
 
 <h2 style="text-align: left; font-size: 2.4em; color: #FFFFFF; font-weight: 600; position: absolute; top: 70%; left: 20%; transform: translate(-50%, -50%);">Peter Drucker</h2>
 
+---
 
+## Systemic Factors 
+
+:::{.incremental}
+
+- There's a corollary to the way justice is characterized to some different assumptions that current growth models make.
+- Often, we use demographic proxy variables to account for systemic factors that impact student outcomes.
+- Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors on student outcomes.
+
+
+:::
 
 <!--
 #########################################
@@ -294,6 +325,10 @@ Section: Next Steps
 # {background-color=#FFA07A}
 
 <h2 class="large-centered-uhoh">Next Steps</h2>
+
+---
+
+## 
 
 
 
