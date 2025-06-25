@@ -35,7 +35,7 @@ draft: false
 
 ::::{.columns}
 
-:::{.column width="60%" style="text-align: left;"}
+:::{.column style="width: 60%; text-align: left;"}
 
 <h1 style="color: #FFFFFF; font-size: 120px;">Beyond the Score</h1>
 
@@ -43,7 +43,7 @@ draft: false
 
 :::
 
-:::{.column width="40%" style="text-align: right; font-size: 68px; font-style: italic; padding-top: 500px;"}
+:::{.column style="text-align: right; font-size: 68px; font-style: italic; padding-top: 500px;"}
 
 <h3 style="color: #FFFFFF; font-size: 60px;">Damian Betebenner</h3>
 
@@ -68,8 +68,6 @@ Section: Trigger Alert
 
 ## I was clueless!
 
-:::{.incremental}
-
 - Going back several years, I'd hear colleagues frequently using the term "equity" to characterize the work they were doing.
 - It seemed like a good thing. It's not like I support inequity.
 - But in the end, I really didn't know what the term meant.
@@ -78,7 +76,6 @@ Section: Trigger Alert
 - I was curious: _How would one characterize/recognize and ultimately quantify equity in terms of the outputs we all know and love - state summative assessment results?_
 - So what did I do? This was pre-ChatGPT so I started Googling. 
 
-:::
 
 <!--
 #########################################
@@ -105,15 +102,11 @@ Section: Background
 
 ::::{.column width="50%"}
 
-:::{.incremental}
-
 - I saw the fence as a metaphor for the "proficiency" requirements and the individuals seeing over the fence as demonstrating proficiency.
 - I saw disparate proficiency outcomes represented by some individuals seeing over the fence and others not.
 - I saw **Equality**, where "input" boxes are of equal height, not eliminating proficiency disparities.
 - I saw **Equity**, where "input" boxes adjust in height to the need of the individual, leading to the elimination of proficiency disparities.
 - I felt like I was starting to get it. 
-
-:::
 
 ::::
 
@@ -139,13 +132,9 @@ Section: Background
 
 ::::{.column width="50%"}
 
-:::{.incremental}
-
 - Making the children different heights implicitly blames the student for not being able to see over the fence.
 - The graphic doesn't address the uneven playing field associated with the systemic inequities that exist in our society.
 - So I wanted to see if I could come up with a graphic that merges these ideas together.
-
-:::
 
 ::::
 
@@ -168,14 +157,11 @@ Section: Background
 
 ## I'm Not Saying
 
-:::{.incremental}
-
 - This is perfect or better than other illustrations.
 - This is original or the best way to think about these ideas. 
 - It did, however, help me get some traction on how ideas like equity and justice could be quantified in terms of the outputs we all know and love - state summative assessment results.
 - That's what I'm going to run with for the rest of this presentation.
 
-:::
 
 <!--
 #########################################
@@ -196,15 +182,11 @@ Section: Equity
 
 ::::{.column width="60%"}
 
-:::{.incremental}
-
 - The boxes represent the equity "contribution".
 - The contribution includes, for example, supplemental learning interventions and supports to help students who are behind "catch up".
 - The height of the boxes represents the magnitude of the contribution or, conversely, the magnitude of the inequity (academic headwinds) to overcome.
 - These contributions would manifest themselves as higher rates of growth (academic tailwinds) for those students. 
 - The critical insight here is that student growth is the basis for investigating equity. 
-
-:::
 
 ::::
 
@@ -220,13 +202,9 @@ Section: Equity
 
 ## Student Growth as an Equity Indicator
 
-:::{.incremental}
-
 - To investigate equity vis-à-vis student growth, we need a measure of student growth that allows different groups to demonstrate different rates of growth.
 - If one only wants to make between group equity comparisons within a given year, then norm-referenced SGPs are sufficient. 
 - If one want to investigate equity over time, for example, at the state level, then baseline referenced SGPs are required.
-
-:::
 
 ---
 
@@ -242,16 +220,12 @@ Section: Equity
 
 ::::{.column width="50%"}
 
-:::{.incremental}
-
 - The mosaic plot depicts percentages of students demonstrating different levels of growth based upon the growth needed by the student.
 - The widths of the columns represent the current percentage of students in each category (in this figure 50%, 25% and 25% have growth goals of **> 1 Year's Growth**, **1 Year's Growth**, and **< 1 Year's Growth**, respectively.
 - The heights of the rectangles represent the percentage of students in each row category demonstrating that amount of growth (uniform distribution of growth by prior achievement).
 - With cohort-referenced SGPs or baseline-referenced SGPs in the baseline year, SGPs will be uniformly distributed.
   - For cohort-referenced SGPs, SGPs for subgroups (e.g., a district) needn't be uniformly distributed within year. 
   - For baseline-referenced SGPs, SGPs for the entire state or for subgroups needn't be uniformly distributed following the baseline year. 
-
-:::
 
 ::::
 
@@ -277,13 +251,9 @@ Section: Equity
 
 ::::{.column width="50%"}
 
-:::{.incremental}
-
 - This figure shows a good scenario with regard to equity.
 - The growth associated with the students needing the equity boost to catch-up shows a preponderance of students demonstration a least a year's worth of learning. 
 - Decreasing the percentage of students demonstrating less than a year's worth of learning is key. 
-
-:::
 
 ::::
 
@@ -315,13 +285,9 @@ Section: Justice
 
 ::::{.column width="60%"}
 
-:::{.incremental}
-
 - The downward slope of the ground represents the myriad of systemic factors (many outside of the control of the education system) that impact student outcomes.
 - Equity, the boxes, represents what needs to be done to overcome these systemic disparities.
 - Justice entails the amelioration of the systemic factors that impact student outcomes.
-
-:::
 
 ::::
 
@@ -345,15 +311,12 @@ Section: Justice
 
 ## Systemic Factors 
 
-:::{.incremental}
-
 - There's a corollary to the way justice is characterized here to some different assumptions that current growth models make.
 - Often, we use individual and group level demographic characteristics as proxies to account for systemic factors that impact student outcomes.
 - Many value-added models incorporate individual and group level demographic characteristics to account for the impact of systemic factors (considered outside of the control of the education system) on student outcomes.
 - I would argue, in line with Peter Drucker, that if our interest is in ameliorating systemic factors that impact student outcomes, then we need to measure them directly.
 - Bill Sanders, when discussing the use of demographics in value-added modeling, feared that their incorporation was "sweeping the problem under the rug".  
 
-:::
 
 <!--
 #########################################
@@ -369,13 +332,9 @@ Section: Next Steps
 
 ## The Future of Equity and Justice in Educational Accountability
 
-:::{.incremental}
-
 - Begin running growth based equity analyses and visualizations for interested state clients.
 - Move beyond demographic proxy variables and incorporate more direct measures of systemic factors that impact student outcomes.
 - Consider how such indicators can be used to inform policy and practice and potentially as part of accountability systems.
-
-:::
 
 ---
 
