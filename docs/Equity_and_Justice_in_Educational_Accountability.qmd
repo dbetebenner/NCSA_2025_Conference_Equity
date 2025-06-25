@@ -409,3 +409,19 @@ Section: Thank You
 # {background-color=#FFA07A}
 
 <h2 class="large-centered-uhoh">Thank You</h2>
+
+---
+
+## {background-color=#FFA07A}
+
+```{r echo=FALSE, results="hide", message=FALSE}
+URL <- "https://dbetebenner.github.io/NCSA_2025_Conference_Equity/Equity_and_Justice_in_Educational_Accountability.html#/section"
+
+qr_code.tmp <- qrcode::qr_code(URL)
+png("assets/img/qr_code.png", width = 800, height = 800, bg = "transparent")
+par(bg = NA)
+plot(qr_code.tmp, bg = "transparent")
+invisible(dev.off())
+```
+
+![](assets/img/qr_code.png){width=800px style="display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); vertical-align: middle;"}
